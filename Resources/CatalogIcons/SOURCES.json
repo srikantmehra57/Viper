@@ -1,0 +1,478 @@
+{
+  "aider" : {
+    "pixels" : "256",
+    "source" : "https://github.com/Aider-AI.png?size=256"
+  },
+  "alfred" : {
+    "pixels" : "256",
+    "source" : "https://www.alfredapp.com/apple-touch-icon.png"
+  },
+  "anki" : {
+    "pixels" : "256",
+    "source" : "https://apps.ankiweb.net/logo.svg"
+  },
+  "appcleaner" : {
+    "pixels" : "420",
+    "source" : "https://github.com/FreeMacSoft.png?size=256"
+  },
+  "arc" : {
+    "pixels" : "256",
+    "source" : "https://github.com/thebrowsercompany.png?size=256"
+  },
+  "audacity" : {
+    "pixels" : "180",
+    "source" : "https://www.audacityteam.org/apple-touch-icon.png"
+  },
+  "battle-net" : {
+    "pixels" : "196",
+    "source" : "https://d2zsxgsqjmrnrw.cloudfront.net/images/favicon-196x196.c3a4cd54fdaeec566e96c37dba35cbca5eccba52.png"
+  },
+  "blender" : {
+    "pixels" : "180",
+    "source" : "https://www.blender.org/wp-content/themes/bthree/assets/icons/apple-touch-icon.png"
+  },
+  "brave-browser" : {
+    "pixels" : "1024",
+    "source" : "Installed app bundle on the review Mac"
+  },
+  "chatgpt" : {
+    "pixels" : "180",
+    "source" : "https://openai.com/apple-touch-icon.png"
+  },
+  "claude" : {
+    "pixels" : "1024",
+    "source" : "Installed app bundle on the review Mac"
+  },
+  "claude-code" : {
+    "pixels" : "256",
+    "source" : "https://github.com/anthropics.png?size=256"
+  },
+  "codex" : {
+    "pixels" : "200",
+    "source" : "https://github.com/openai.png?size=256"
+  },
+  "craft" : {
+    "pixels" : "192",
+    "source" : "https://www.craft.do/favicons/light/light_192.png"
+  },
+  "cursor" : {
+    "pixels" : "192",
+    "source" : "https://cursor.com/marketing-static/icon-192x192-light.png"
+  },
+  "cyberduck" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/3e/4d/293e4dd9-8858-503f-9f5f-d9f758d4149f/cyberduck-application-rect.png/512x512bb.png"
+  },
+  "dbeaver-community" : {
+    "pixels" : "256",
+    "source" : "https://github.com/dbeaver.png?size=256"
+  },
+  "discord" : {
+    "pixels" : "256",
+    "source" : "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico"
+  },
+  "docker-desktop" : {
+    "pixels" : "192",
+    "source" : "https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-192x192.png"
+  },
+  "element" : {
+    "pixels" : "256",
+    "source" : "https://element.io/assets-32bb636196f91ed59d7a49190e26b42c/5ef25c0d30ee3108da4c25e9/5f0e1775cd41ebe29c04cac1_webclip.png"
+  },
+  "epic-games" : {
+    "pixels" : "256",
+    "source" : "https://github.com/EpicGames.png?size=256"
+  },
+  "eqmac" : {
+    "pixels" : "256",
+    "source" : "https://github.com/bitgapp.png?size=256"
+  },
+  "eslint" : {
+    "pixels" : "256",
+    "source" : "https://github.com/eslint.png?size=256"
+  },
+  "eza" : {
+    "pixels" : "96",
+    "source" : "https://github.com/eza-community.png?size=256"
+  },
+  "ffmpeg" : {
+    "pixels" : "256",
+    "source" : "https://github.com/FFmpeg.png?size=256"
+  },
+  "figma" : {
+    "pixels" : "256",
+    "source" : "https://static.figma.com/app/icon/2/icon-256.png"
+  },
+  "final-cut-pro" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/95/ff/9d95ff81-dd3d-9075-149f-c6e2a4773ca0/AppIcon-0-85-220-0-6-0-0-2x-sRGB-0-0.png/512x512bb.png"
+  },
+  "firebase-tools" : {
+    "pixels" : "180",
+    "source" : "https://www.gstatic.com/devrel-devsite/prod/v826fb839c0b38141980abf47020a61dc3ff340cbde624f57178f4c01d184ef87/firebase/images/touchicon-180.png"
+  },
+  "firefox" : {
+    "pixels" : "196",
+    "source" : "https://www.firefox.com/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png"
+  },
+  "fork" : {
+    "pixels" : "256",
+    "source" : "https://git-fork.com/images/logo.png"
+  },
+  "garageband" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/7a/ba/557aba82-01bb-daaf-e3c1-f98e708df237/AppIcon-0-85-220-6-0-0-2x-0-0.png/512x512bb.png"
+  },
+  "gemini-cli" : {
+    "pixels" : "200",
+    "source" : "https://github.com/google-gemini.png?size=256"
+  },
+  "gh" : {
+    "pixels" : "200",
+    "source" : "https://github.com/cli.png?size=256"
+  },
+  "ghostty" : {
+    "pixels" : "256",
+    "source" : "https://github.com/ghostty-org.png?size=256"
+  },
+  "gimp" : {
+    "pixels" : "200",
+    "source" : "https://www.gimp.org/images/frontpage/wilber-big.png"
+  },
+  "git" : {
+    "pixels" : "256",
+    "source" : "https://github.com/git.png?size=256"
+  },
+  "github-copilot-cli" : {
+    "pixels" : "256",
+    "source" : "https://github.com/github.png?size=256"
+  },
+  "gog-galaxy" : {
+    "pixels" : "192",
+    "source" : "https://www.gogalaxy.com/favicons/android-icon-192x192.png"
+  },
+  "google-chrome" : {
+    "pixels" : "192",
+    "source" : "https://www.google.com/chrome/static/images/favicons/android-icon-192x192.png"
+  },
+  "handbrake" : {
+    "pixels" : "144",
+    "source" : "https://handbrake.fr/apple-touch-icon.png"
+  },
+  "heroic" : {
+    "pixels" : "256",
+    "source" : "https://github.com/Heroic-Games-Launcher.png?size=256"
+  },
+  "htop" : {
+    "pixels" : "127",
+    "source" : "https://htop.dev/images/htop.ico"
+  },
+  "httpie" : {
+    "pixels" : "192",
+    "source" : "https://httpie.io/Brand/Favicons/Black/android-icon-192x192.png"
+  },
+  "iina" : {
+    "pixels" : "180",
+    "source" : "https://iina.io/images/apple-touch-icon.png"
+  },
+  "imagemagick" : {
+    "pixels" : "256",
+    "source" : "https://imagemagick.org/favicon.ico"
+  },
+  "inkscape" : {
+    "pixels" : "256",
+    "source" : "https://github.com/inkscape.png?size=256"
+  },
+  "insomnia" : {
+    "pixels" : "180",
+    "source" : "https://insomnia.rest/apple-touch-icon.png"
+  },
+  "iterm2" : {
+    "pixels" : "1600",
+    "source" : "https://iterm2.com/img/logo2x.jpg"
+  },
+  "itsycal" : {
+    "pixels" : "272",
+    "source" : "https://www.mowglii.com/static/apple-touch-icon.png?v=1789663427"
+  },
+  "jan" : {
+    "pixels" : "256",
+    "source" : "https://github.com/janhq.png?size=256"
+  },
+  "jetbrains-toolbox" : {
+    "pixels" : "512",
+    "source" : "https://www.jetbrains.com/icon-512.png?r=1234"
+  },
+  "jq" : {
+    "pixels" : "256",
+    "source" : "https://github.com/jqlang.png?size=256"
+  },
+  "karabiner-elements" : {
+    "pixels" : "180",
+    "source" : "https://karabiner-elements.pqrs.org/favicons/apple-touch-icon-180x180.png"
+  },
+  "keka" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/16/84/f11684b8-e695-d9ea-4ff4-692c130876a9/Keka-0-0-85-220-0-5-0-2x.png/512x512bb.png"
+  },
+  "krita" : {
+    "pixels" : "180",
+    "source" : "https://krita.org/apple-touch-icon.png"
+  },
+  "libreoffice" : {
+    "pixels" : "256",
+    "source" : "https://github.com/LibreOffice.png?size=256"
+  },
+  "lm-studio" : {
+    "pixels" : "192",
+    "source" : "https://lmstudio.ai/assets/marketing/logo-192x192.png"
+  },
+  "logic-pro" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/c6/ad/e1c6ad4e-9edb-ad53-56fd-ed33ca82c3b9/AppIcon-0-85-220-0-6-0-0-2x-0-0-0-0-0.png/512x512bb.png"
+  },
+  "logseq" : {
+    "pixels" : "192",
+    "source" : "https://asset.logseq.com/static/img/logo.png"
+  },
+  "loopback" : {
+    "pixels" : "180",
+    "source" : "https://rogueamoeba.com/global/images/siteimages/iPhoneicon.png?v20231002"
+  },
+  "maccy" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/43/82/cb438259-2f3c-5920-fa7d-75f5d7d94da4/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png"
+  },
+  "mas" : {
+    "pixels" : "256",
+    "source" : "https://github.com/mas-cli.png?size=256"
+  },
+  "microsoft-edge" : {
+    "pixels" : "96",
+    "source" : "https://edgecdn-embza6g8cacagcbn.z01.azurefd.net/welcome/static/favicon.png"
+  },
+  "microsoft-office" : {
+    "pixels" : "128",
+    "source" : "https://www.microsoft.com/favicon.ico?v2"
+  },
+  "microsoft-teams" : {
+    "pixels" : "128",
+    "source" : "https://www.microsoft.com/favicon.ico?v2"
+  },
+  "minecraft" : {
+    "pixels" : "192",
+    "source" : "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/android-icon-192x192.png"
+  },
+  "monitorcontrol" : {
+    "pixels" : "255",
+    "source" : "https://github.com/MonitorControl.png?size=256"
+  },
+  "mpv" : {
+    "pixels" : "250",
+    "source" : "https://github.com/mpv-player.png?size=256"
+  },
+  "neovim" : {
+    "pixels" : "200",
+    "source" : "https://github.com/neovim.png?size=256"
+  },
+  "node" : {
+    "pixels" : "256",
+    "source" : "https://github.com/nodejs.png?size=256"
+  },
+  "notion" : {
+    "pixels" : "512",
+    "source" : "https://www.notion.com/front-static/logo-ios.png"
+  },
+  "notion-calendar" : {
+    "pixels" : "512",
+    "source" : "https://www.notion.com/front-static/logo-ios.png"
+  },
+  "obs" : {
+    "pixels" : "96",
+    "source" : "https://obsproject.com/favicon-96x96.png"
+  },
+  "obsidian" : {
+    "pixels" : "180",
+    "source" : "https://obsidian.md/apple-touch-icon.png"
+  },
+  "ollama" : {
+    "pixels" : "180",
+    "source" : "https://ollama.com/public/apple-touch-icon.png"
+  },
+  "openemu" : {
+    "pixels" : "152",
+    "source" : "https://openemu.org/img/favicons/favicon-152.png"
+  },
+  "opera" : {
+    "pixels" : "180",
+    "source" : "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/opera/apple-touch-icon.00d9278d6de6.png"
+  },
+  "pandoc" : {
+    "pixels" : "256",
+    "source" : "https://pandoc.org/pandoc-icon.svg?v=20260802170543"
+  },
+  "pixelmator-pro" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/e9/19/a1e91908-afba-6b30-d789-b03300253ab2/AppIcon-0-0-85-220-0-0-5-0-2x-0-0-0.png/512x512bb.png"
+  },
+  "pnpm" : {
+    "pixels" : "160",
+    "source" : "https://github.com/pnpm.png?size=256"
+  },
+  "postman" : {
+    "pixels" : "512",
+    "source" : "https://www.postman.com/_mk-www-next/icons/android-chrome-512x512.png"
+  },
+  "prettier" : {
+    "pixels" : "256",
+    "source" : "https://github.com/prettier.png?size=256"
+  },
+  "prism-launcher" : {
+    "pixels" : "96",
+    "source" : "https://prismlauncher.org/img/favicon.png"
+  },
+  "proton-mail" : {
+    "pixels" : "180",
+    "source" : "https://proton.me/favicons/apple-touch-icon.png"
+  },
+  "raycast" : {
+    "pixels" : "1024",
+    "source" : "https://www.raycast.com/favicon-production.png"
+  },
+  "rectangle" : {
+    "pixels" : "180",
+    "source" : "https://rectangleapp.com/apple-touch-icon.png"
+  },
+  "serve" : {
+    "pixels" : "256",
+    "source" : "https://github.com/vercel.png?size=256"
+  },
+  "signal" : {
+    "pixels" : "180",
+    "source" : "https://signal.org/assets/images/favicon/apple-touch-icon.png"
+  },
+  "sketch" : {
+    "pixels" : "180",
+    "source" : "https://www.sketch.com/images/metadata/icon-180.png"
+  },
+  "slack" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/8d/61/288d6182-b734-922e-1640-2ea16e01d147/electron.png/512x512bb.png"
+  },
+  "soundsource" : {
+    "pixels" : "180",
+    "source" : "https://rogueamoeba.com/global/images/siteimages/iPhoneicon.png?v20231002"
+  },
+  "spotify" : {
+    "pixels" : "128",
+    "source" : "https://www.scdn.co/i/_global/favicon.png"
+  },
+  "stats" : {
+    "pixels" : "512",
+    "source" : "https://raw.githubusercontent.com/exelban/stats/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_512x512.png"
+  },
+  "steam" : {
+    "pixels" : "256",
+    "source" : "https://store.steampowered.com/favicon.ico"
+  },
+  "sublime-text" : {
+    "pixels" : "192",
+    "source" : "https://www.sublimetext.com/images/icon.png"
+  },
+  "tableplus" : {
+    "pixels" : "180",
+    "source" : "https://tableplus.com/resources/favicons/apple-icon-180x180.png"
+  },
+  "telegram" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/fd/c0/94fdc020-0f5e-b048-3f72-e95a5ae568b6/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB.png/512x512bb.png"
+  },
+  "the-unarchiver" : {
+    "pixels" : "144",
+    "source" : "https://cdn.theunarchiver.com/img/the-unarchiver-144x144.png"
+  },
+  "thunderbird" : {
+    "pixels" : "196",
+    "source" : "https://www.thunderbird.net/media/img/thunderbird/favicon-196.png"
+  },
+  "tmux" : {
+    "pixels" : "160",
+    "source" : "https://github.com/tmux.png?size=256"
+  },
+  "todoist" : {
+    "pixels" : "512",
+    "source" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/19/b3/7119b395-a44b-50ba-6a42-0fee4b42c3a9/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png"
+  },
+  "tor-browser" : {
+    "pixels" : "256",
+    "source" : "https://github.com/torproject.png?size=256"
+  },
+  "typescript" : {
+    "pixels" : "512",
+    "source" : "https://www.typescriptlang.org/icons/icon-512x512.png?v=8944a05a8b601855de116c8a56d3b3ae"
+  },
+  "uv" : {
+    "pixels" : "180",
+    "source" : "https://docs.astral.sh/static/apple-touch-icon.png"
+  },
+  "vercel-cli" : {
+    "pixels" : "180",
+    "source" : "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-180x180.png"
+  },
+  "visual-studio-code" : {
+    "pixels" : "256",
+    "source" : "https://code.visualstudio.com/assets/apple-touch-icon.png"
+  },
+  "vivaldi" : {
+    "pixels" : "192",
+    "source" : "https://vivaldi.com/wp-content/uploads/cropped-favicon-192x192.png"
+  },
+  "vlc" : {
+    "pixels" : "256",
+    "source" : "https://github.com/videolan.png?size=256"
+  },
+  "warp" : {
+    "pixels" : "196",
+    "source" : "https://www.warp.dev/favicon-196x196.png"
+  },
+  "webex" : {
+    "pixels" : "256",
+    "source" : "https://github.com/webex.png?size=256"
+  },
+  "whatsapp" : {
+    "pixels" : "1024",
+    "source" : "Installed app bundle on the review Mac"
+  },
+  "wrangler" : {
+    "pixels" : "256",
+    "source" : "https://github.com/cloudflare.png?size=256"
+  },
+  "xcode" : {
+    "pixels" : "1024",
+    "source" : "Installed app bundle on the review Mac"
+  },
+  "yarn" : {
+    "pixels" : "256",
+    "source" : "https://github.com/yarnpkg.png?size=256"
+  },
+  "yt-dlp" : {
+    "pixels" : "256",
+    "source" : "https://github.com/yt-dlp.png?size=256"
+  },
+  "zed" : {
+    "pixels" : "256",
+    "source" : "https://github.com/zed-industries.png?size=256"
+  },
+  "zen" : {
+    "pixels" : "256",
+    "source" : "https://zen-browser.app/favicon.svg"
+  },
+  "zoom" : {
+    "pixels" : "180",
+    "source" : "https://st1.zoom.us/zoom-180x180.png"
+  },
+  "zotero" : {
+    "pixels" : "152",
+    "source" : "https://www.zotero.org/apple-touch-icon.png"
+  }
+}
